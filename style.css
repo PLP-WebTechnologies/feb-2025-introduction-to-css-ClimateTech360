@@ -1,0 +1,33 @@
+/* Styling the background */
+body {
+    background-color: rgb(85, 154, 85);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Styling the heading */
+h1 {
+    color: whitesmoke;
+    font-size: 36px;
+    font-weight: bold;
+
+}
+
+/* Styling the paragraph */
+p {
+    color: black;
+    font-size: 18px;
+}
+
+/* Styling the link */
+a {
+    color: white;
+    background-color: darkblue;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: rgb(102, 139, 0);
+}
